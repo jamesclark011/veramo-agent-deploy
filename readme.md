@@ -44,7 +44,7 @@ The database connection string for Postgres
 
 You will need to fork this repo, update the link, then click the button below and follow the Heroku deploy process:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/uport-project/veramo-agent-deploy/tree/next)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jamesclark011/veramo-agent-deploy.git)
 
 Be sure to set the `BASE_URL` correctly, with your App name replacing `APP_NAME` in the URL.
 
@@ -75,3 +75,5 @@ Coming soon
 ## Deploy to AWS
 
 Follow the instructions on our docs page: [Veramo.io Docs](https://veramo.io/docs/deployment_tutorials/deployment_aws)
+
+hhh
